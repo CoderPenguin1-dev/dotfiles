@@ -61,6 +61,7 @@
     </property>
     <property name="plugin-1" type="string" value="whiskermenu">
       <property name="recent" type="array">
+        <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="vesktop.desktop"/>
         <value type="string" value="firefox.desktop"/>
         <value type="string" value="steam.desktop"/>
@@ -69,7 +70,6 @@
         <value type="string" value="xarchiver.desktop"/>
         <value type="string" value="xfce4-power-manager-settings.desktop"/>
         <value type="string" value="xfce-wmtweaks-settings.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="org.vinegarhq.Sober.desktop"/>
       </property>
       <property name="button-icon" type="string" value="archlinux-logo"/>

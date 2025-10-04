@@ -1,0 +1,92 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=8;x=1280;y=1426"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="21"/>
+      <property name="size" type="uint" value="35"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="4"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="4"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-items" type="array">
+        <value type="string" value="wivrn-dashboard"/>
+        <value type="string" value="vrmonitor"/>
+        <value type="string" value="xpad"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="openrgb"/>
+      </property>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="networkmanager applet"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="clock">
+      <property name="digital-time-format" type="string" value="%I:%M %p"/>
+      <property name="digital-date-format" type="string" value="%m/%d/%Y"/>
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-time-font" type="string" value="Sans 10"/>
+    </property>
+    <property name="plugin-9" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-1" type="string" value="whiskermenu">
+      <property name="recent" type="array">
+        <value type="string" value="vesktop.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="steam.desktop"/>
+        <value type="string" value="qalculate-gtk.desktop"/>
+        <value type="string" value="rider.desktop"/>
+        <value type="string" value="xarchiver.desktop"/>
+        <value type="string" value="xfce4-power-manager-settings.desktop"/>
+        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="org.vinegarhq.Sober.desktop"/>
+      </property>
+      <property name="button-icon" type="string" value="archlinux-logo"/>
+      <property name="profile-shape" type="int" value="0"/>
+      <property name="favorites" type="array">
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="xfce4-file-manager.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+      </property>
+      <property name="menu-opacity" type="int" value="100"/>
+      <property name="show-command-lockscreen" type="bool" value="false"/>
+      <property name="menu-width" type="int" value="600"/>
+      <property name="menu-height" type="int" value="650"/>
+    </property>
+    <property name="plugin-4" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox;vlc"/>
+    </property>
+  </property>
+</channel>

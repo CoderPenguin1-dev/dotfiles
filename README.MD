@@ -1,4 +1,4 @@
-My personal dotfiles for Linux.
+My personal dotfiles for Linux, as well as some notes for stuff I use in my setups.
 
 # Used
 * **DE:** XFCE4
@@ -6,5 +6,8 @@ My personal dotfiles for Linux.
 * **GTK Theme:** Flat-Remix-Blue-Dark-Solid
 * **Icon Theme:**  Papirus-Dark (papirus-icon-theme)
 
-## Needed Applications:
+## Needed Applications For Dotfiles (Not Listed Above)
 * Fastfetch
+* btop
+* xfce4-screenshooter
+* xfce4-whiskermenu-plugin

@@ -3,8 +3,9 @@
 # XFCE Configs
 cp -r ~/.config/xfce4/xfconf/xfce-perchannel-xml config/xfce4/xfconf/
 
-# Bashrc
+# Shell Configs
 cp ~/.bashrc .bashrc
+cp ~/.config/fish/config.fish config/fish/config.fish
 cp ~/.aliases .aliases
 
 # Application Configs

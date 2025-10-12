@@ -13,3 +13,4 @@ My personal dotfiles for Linux, as well as some notes for stuff I use in my setu
 * btop
 * xfce4-screenshooter
 * xfce4-whiskermenu-plugin
+* Exa

@@ -5,7 +5,7 @@ cp -r ~/.config/xfce4/xfconf/xfce-perchannel-xml config/xfce4/xfconf/
 
 # Shell Configs
 cp ~/.bashrc .bashrc
-cp ~/.config/fish/config.fish config/fish/config.fish
+cp -r ~/.config/fish/ config/
 cp ~/.aliases .aliases
 
 # Application Configs

@@ -1,5 +1,5 @@
 alias ls="ls --color"
 alias icat="kitten icat"
-alias fastfetch="fastfetch --config paleofetch --kitty ~/.fastfetch_icon --logo-width 30 --logo-height 15 --logo-padding-top 1 --logo-padding-left 1"
+alias fastfetch="fastfetch --config paleofetch --kitty ~/.fastfetch-logo --logo-width 30 --logo-height 15 --logo-padding-top 1 --logo-padding-left 1"
 alias grep='grep --color=auto'
 alias ls="exa --icons"

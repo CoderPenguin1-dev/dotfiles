@@ -1,9 +1,9 @@
 My personal dotfiles for Linux, as well as some notes for stuff I use in my setups.
 
 # Generally Used Stuff
-* **Terminal:** Kitty
+* **Terminal:** Konsole
 * **Shell:** Fish
-* **DE:** XFCE4
+* **DE:** KDE Plasma
 * **GTK Theme:** Skueos-Blue-Dark
 * **Icon Theme:**  Papirus-Dark (papirus-icon-theme)
 
@@ -11,6 +11,4 @@ My personal dotfiles for Linux, as well as some notes for stuff I use in my setu
 * Fastfetch
    * With Imagemagicks
 * btop
-* xfce4-screenshooter
-* xfce4-whiskermenu-plugin
 * Exa

@@ -1,7 +1,7 @@
 My personal dotfiles for Linux, as well as some notes for stuff I use in my setups.
 
 # Generally Used Stuff
-* **Terminal:** Konsole
+* **Terminal:** Kitty
 * **Shell:** Fish
 * **DE:** KDE Plasma
 * **GTK Theme:** Skueos-Blue-Dark

@@ -10,3 +10,5 @@ if status is-interactive
     fastfetch
     echo
 end
+
+thefuck --alias | source

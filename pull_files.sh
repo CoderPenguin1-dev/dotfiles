@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# XFCE Configs
-cp -r ~/.config/xfce4/xfconf/xfce-perchannel-xml config/xfce4/xfconf/
-
 # Shell Configs
 cp ~/.bashrc .bashrc
 cp -r ~/.config/fish/ config/

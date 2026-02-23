@@ -12,3 +12,4 @@ My personal dotfiles for Linux, as well as some notes for stuff I use in my setu
    * With Imagemagicks
 * btop
 * Exa
+* Fuck

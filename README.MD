@@ -4,7 +4,7 @@ My personal dotfiles for Linux, as well as some notes for stuff I use in my setu
 * **Terminal:** Kitty
 * **Shell:** Fish
 * **DE:** KDE Plasma
-* **GTK Theme:** Skueos-Blue-Dark
+* **QT Theme:** Klassy
 * **Icon Theme:**  Papirus-Dark (papirus-icon-theme)
 
 ## Applications

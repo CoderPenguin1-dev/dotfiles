@@ -13,3 +13,4 @@ cp ~/.config/sled.conf config/sled.conf
 # Other System Configs
 cp /etc/pacman.conf etc/pacman.conf
 cp /etc/environment etc/environment
+cp /etc/makepkg.conf etc/makepkg.conf

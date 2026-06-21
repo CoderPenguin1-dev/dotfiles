@@ -4,3 +4,4 @@ alias fastfetch="fastfetch --config paleofetch --kitty ~/.fastfetch-logo --logo-
 alias grep='grep --color=auto'
 alias ls="exa --icons"
 alias rm-orphan="pacman -Qdtq | sudo pacman -Rns -"
+alias s="kitten ssh"
